@@ -13,7 +13,7 @@
 	2. update README.md
 		1. replace `<rep>` on step 4 of this section with your repository link. Like: `https://github.com/USERNAME/iot-maximo`
 3. click the "Deploy to Bluemix" button.
-4. [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=<rep>)
+4. [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/rgrozdanovski/iot-maximo-sample)
 
 ---
 # Editing on Bluemix
